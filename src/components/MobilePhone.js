@@ -27,7 +27,7 @@ export default function () {
           }));
         }
         clearTimeout(timer);
-      }, 450);
+      }, 430);
     },
   };
 
